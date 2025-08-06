@@ -14,6 +14,12 @@ This package provides a function that decodes B-10L LoRaWan uplink.
 4. Add tests if applicable
 5. Submit a pull request
 
+## Cyber security
+
+Cyber security page: https://www.socomec.fr/fr/cybersecurite
+Subscribe to cyber security alerts: https://www.socomec.fr/fr/alertes-et-notifications-en-matiere-de-cybersecurite
+CVE list: https://www.socomec.fr/fr/resource-center/type-de-ressource/cyber-vulnerabilities-1971
+
 ## License
 
 See LICENSE file for details.
